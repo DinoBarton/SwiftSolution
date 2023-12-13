@@ -12,4 +12,4 @@ A platform that allows people with ideas of the general public to connect with d
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 
 ## Contributors
-![DinoBarton](https://github.com/DinoBarton) - (Founder)
+[DinoBarton](https://github.com/DinoBarton) - (Founder)
