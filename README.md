@@ -5,7 +5,7 @@ Its exstremely difficult for aspiring entreprenues to find ideas for brilliant p
 
 People feel upset that their ideas cant make the world a better place due to being unable to push the idea to people willing to develop them
 ### Solution
-A platform that allows people with ideas of the general public to connect with driven ambitous entrepreneurs to make it a reality..
+A platform that allows people with ideas of the general public to connect with driven ambitous entrepreneurs to make it a reality.
 ## Tech stack
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
